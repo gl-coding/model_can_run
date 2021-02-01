@@ -1,0 +1,6 @@
+21
+This is a test data file.
+We will convert this text file to bin file.
+1
+2
+3
